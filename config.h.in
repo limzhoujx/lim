@@ -1,0 +1,4 @@
+/* config.h.in.  Generated from configure.ac by autoheader.  */
+
+/* Define if the system has openssl */
+#cmakedefine ENABLE_OPENSSL
